@@ -1,5 +1,7 @@
 # #pm4lib
 
+March 24, 2014. Led by Rosalyn Metz and Becky Yoose. Check out their [supporting docs/workshop slides](https://drive.google.com/folderview?id=0B6fFxMd8RTVhUkN4YW8wZXdwY1U&usp=sharing).
+
 ## kicking off projects
 
   - To kick off a project, hold a meeting with your stakeholders and your developers. 
@@ -28,3 +30,7 @@ Establish the project, set the boundaries. [Project one-pager by Tito Sierra]()
  - Team
  - Schedule (ish)
  - [Example one-pager from Rosie](https://docs.google.com/document/d/1BrZzT9dHE0r9slJFJo9Jmc91rZJ3Kl0aBHrBcz4RlyE/edit?usp=drive_web)
+
+ ## breaking down work/assigning responsibility
+
+ Take your high-level buckets (SMART goals) and break them down into tasks
