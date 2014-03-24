@@ -1,28 +1,26 @@
 # #pm4lib
 
-March 24, 2014. Led by Rosalyn Metz and Becky Yoose. Check out their [supporting docs/workshop slides](https://drive.google.com/folderview?id=0B6fFxMd8RTVhUkN4YW8wZXdwY1U&usp=sharing).
+March 24, 2014. Project management workshop led by Rosalyn Metz and Becky Yoose. Check out their [supporting docs/workshop slides](https://drive.google.com/folderview?id=0B6fFxMd8RTVhUkN4YW8wZXdwY1U&usp=sharing).
 
 [Tweets from this session](https://twitter.com/search?q=%23pm4lib&src=typd&f=realtime)
 
 ## kicking off projects
 
-  - To kick off a project, hold a meeting with your stakeholders and your developers. 
-  - Use "5 whys" to do discovery and find the root of the problem you're trying to solve
-  - Define goals first
-    - SMART: 
-    specific: who, what, when, where, why
-    measurable: can be time-based
-    attainable: realistic given current resources. Other A's: assignable
-    relevant
-    time-bound 
-  - from goals comes scope
+To kick off a project, hold a meeting with your stakeholders and your developers. Use facilitating activities like "5 whys" to do discovery and find the root of the problem you're trying to solve.
+
+Define [SMART goals](https://docs.google.com/document/d/1sOlzDUO_tFzCXiPRrEGG-nUbDqCB91ldflpR_MUfCek/edit?usp=drive_web):
+
+ - specific: who, what, when, where, why
+ - measurable: can be time-based
+ - attainable: realistic given current resources. Other A's: assignable
+ - relevant
+ - time-bound 
 
 ## stakeholders
 
  - [stakeholder analysis worksheet](https://docs.google.com/document/d/1hu_xmNzAZMfOzwPv41an3eu1IJJKAxD68WA8d6K63kg/edit?pli=1)
 
- - understand the personalities
- - types of stakeholders: executive sponsor, sponsor, project manager, team members, other affected groups
+Understand the personalities and types of stakeholders: executive sponsor, sponsor, project manager, team members, other affected groups.
 
 ## project charters
 
@@ -68,6 +66,8 @@ T / (1 - B%)
 
 ## cost estimates
 
+ - [Example project budget spreadsheet](https://docs.google.com/spreadsheets/d/1O_nf8iqJ-Z_f8l8iVQB-cDUpDP4y3jgTOAGTbQj2hw4/edit?usp=drive_web&pli=1)
+
 Estimate time in hours, estimte salary/hour and benefits. Take the task breakdown list and estimate time for each employee to complete each task.
 
 ```
@@ -78,9 +78,64 @@ If you want to get real about cost, include at least 25% on top of salary for HR
 
 And, include the time buffer in estimates.
 
- - [Example project budget spreadsheet](https://docs.google.com/spreadsheets/d/1O_nf8iqJ-Z_f8l8iVQB-cDUpDP4y3jgTOAGTbQj2hw4/edit?usp=drive_web&pli=1)
-
 ### why should libraries care about cost estimates?
 
  - Helps project initiators understand the scope of their projects
  - Helps justify staffing decisions
+
+## reporting your progress
+
+ - [sample communications plan](https://docs.google.com/document/d/1TFKjDxgx25arn1nZSR73Og-mLo_-6tSj55F_3yp5xr8/edit?usp=drive_web)
+
+What and how you report will depend on who's sponsoring the project. External agency? Internal client?
+
+Whatever your plan, your communications need to be clear, concise and consistent.
+
+ - **Standing meetings with your team:** what'd you get done since the last meeting? What will you work on next? Anything keeping you from doing your work? Daily grynd.
+ - **Status reports:** less regular. Use less jargon, explain impact on the organization.
+ - **Sponsor meetings:** as needed to discuss critical issues and potential changes to project plan.
+
+## ticketing
+
+Repeat after Becky: "My ticketing system is not my project management strategy."
+
+Customize your system to solidify your workflow *before* tickets hit the system.
+
+ - Decide: will you use your ticketing system just for bugs, or will you use it to report progress?
+ - E-mail functions: how will they be used?
+ - Decide types of tickets (i.e. development, design) and assign a primary contact and secondary contact.
+ - Decide how long a "timely manner" is and figure out when second contact needs to come in.
+
+Finally: make sure your users are using the ticketing system. It can be hard for people to send their communications into a "black hole" especially when they know a specific person they can contact to get a problem solved.
+
+## tools of the trade
+
+### [redmine](http://redmine.org)
+
+Open-source software. Can assign users to specific roles. Can also create external forms that hook into RedMine (i.e. Drupal).
+
+Can be used for time tracking.
+
+Makes Gantt charts based on your time estimates.
+
+**Protip:** we respond to people faster when they use the ticketing system.
+
+### [basecamp](http://basecamp.com)
+
+Can assign projects to teams. Can create checklists.
+
+Can export calendar to Google Calendar so people can see what we're working on.
+
+Doesn't handle files well, but integrates with Google Docs pretty well and has a text documents feature.
+
+### [trello](http://trello.com)
+
+Digital post-it boards. Easy to move cards between boards. Can have comment threads on cards. Really handy for scrum/agile environments.
+
+### [github](http://github.com/)
+
+Ticketing tied up with code repositories. Nice for integrating with workflow.
+
+### excel spreadsheets
+
+Using a spreadsheet to track problems, who reported it and when, what type of issue it is, when first response sent. Helps with accountability for supervisors.
