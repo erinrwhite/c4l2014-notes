@@ -146,4 +146,22 @@ The project charter is your go-to guide. But your project isn't completely over 
 
 ### postmortems
 
-Wrapup discussion after a project. What worked? What didn't work? What lessons can we learn from this project?
+Wrapup discussion after a project. 
+
+ - What worked? Did anything come in early or under budget? Any tools or techniques that worked?
+ - What didn't work? 
+ - What lessons can we learn from this project? 
+ - And, how can we apply these lessons to future projects?
+
+### product management/maintenance
+
+Moving from project management to product management after your product ships. We assume product managers do everything from idea generation to design, development, communications/PR, etc. 
+
+But product managers are one thing: **the voice of the user**. Your job is to coordinate the work of many teams and make the decisions about features.
+
+Ask the hard questions and ask your developers why. Facilitate structured discussions. In an ideal world the product owner is not the direct supervisor of the team members.
+
+Resources from Rosy:
+
+ - [how to be a product manager](http://www.joelonsoftware.com/items/2009/03/09.html)
+ - [on product management](https://medium.com/on-product-management/c664ba7e5138)
