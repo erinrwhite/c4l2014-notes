@@ -2,7 +2,8 @@
 
 March 24, 2014. Project management workshop led by Rosalyn Metz and Becky Yoose. Check out their [supporting docs/workshop slides](https://drive.google.com/folderview?id=0B6fFxMd8RTVhUkN4YW8wZXdwY1U&usp=sharing).
 
-[Tweets from this session](https://twitter.com/search?q=%23pm4lib&src=typd&f=realtime)
+ - [Tweets from this session](https://twitter.com/search?q=%23pm4lib&src=typd&f=realtime)
+ - [Cynthia Ng's notes from this session](http://cynng.wordpress.com/2014/03/24/code4lib-pre-conf-project-management-pm4lib/)
 
 ## kicking off projects
 
