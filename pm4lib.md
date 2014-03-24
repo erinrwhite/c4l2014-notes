@@ -139,3 +139,11 @@ Ticketing tied up with code repositories. Nice for integrating with workflow.
 ### excel spreadsheets
 
 Using a spreadsheet to track problems, who reported it and when, what type of issue it is, when first response sent. Helps with accountability for supervisors.
+
+## finishing projects
+
+The project charter is your go-to guide. But your project isn't completely over when you complete all your objectives.
+
+### postmortems
+
+Wrapup discussion after a project. What worked? What didn't work? What lessons can we learn from this project?
