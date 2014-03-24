@@ -44,4 +44,18 @@ Take your high-level buckets (SMART goals) and break them down into tasks. If yo
 
 **Revisit tasks** regularly to make sure they're still realistic. Does the task breakdown need to be modified?
 
+## time estimates
+
+Often libraries don't think about project cost. We should. Estimating time helps you estimate cost.
+
 **Track your time** to be able to estimate your time. Rosy uses an app called [Harvest](http://www.getharvest.com/).
+
+**Know your audience.** Some team members will give you one estimate...know how they work and adjust estimates accordingly.
+
+**Estimate discrete tasks based on the Fibonacci sequence.** Will a task take 1, 2, 3, 5, or 8 hours?
+
+### buffers
+
+Choose a realistic buffer B and apply the percentage to an entire project's time T.
+
+  T / (1 - B%)
