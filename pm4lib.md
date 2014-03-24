@@ -65,3 +65,22 @@ Choose a realistic buffer B and apply the percentage to an entire project's time
 ```
 T / (1 - B%)
 ```
+
+## cost estimates
+
+Estimate time in hours, estimte salary/hour and benefits. Take the task breakdown list and estimate time for each employee to complete each task.
+
+```
+cost = P1(hours*salary/hour) + P2(hours*salary/hour) + P3(hours*salary/hour)
+```
+
+If you want to get real about cost, include at least 25% on top of salary for HR/benefits rates.
+
+And, include the time buffer in estimates.
+
+ - [Example project budget spreadsheet](https://docs.google.com/spreadsheets/d/1O_nf8iqJ-Z_f8l8iVQB-cDUpDP4y3jgTOAGTbQj2hw4/edit?usp=drive_web&pli=1)
+
+### why should libraries care about cost estimates?
+
+ - Helps project initiators understand the scope of their projects
+ - Helps justify staffing decisions
