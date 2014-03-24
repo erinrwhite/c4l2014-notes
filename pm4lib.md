@@ -2,6 +2,8 @@
 
 March 24, 2014. Led by Rosalyn Metz and Becky Yoose. Check out their [supporting docs/workshop slides](https://drive.google.com/folderview?id=0B6fFxMd8RTVhUkN4YW8wZXdwY1U&usp=sharing).
 
+[Tweets from this session](https://twitter.com/search?q=%23pm4lib&src=typd&f=realtime)
+
 ## kicking off projects
 
   - To kick off a project, hold a meeting with your stakeholders and your developers. 
@@ -50,6 +52,8 @@ Often libraries don't think about project cost. We should. Estimating time helps
 
 **Track your time** to be able to estimate your time. Rosy uses an app called [Harvest](http://www.getharvest.com/).
 
+**Empower your team** and encourage them to track their time, too. Rosy: I don't care how long it takes. I just want to know.
+
 **Know your audience.** Some team members will give you one estimate...know how they work and adjust estimates accordingly.
 
 **Estimate discrete tasks based on the Fibonacci sequence.** Will a task take 1, 2, 3, 5, or 8 hours?
@@ -58,4 +62,6 @@ Often libraries don't think about project cost. We should. Estimating time helps
 
 Choose a realistic buffer B and apply the percentage to an entire project's time T.
 
-  T / (1 - B%)
+```
+T / (1 - B%)
+```
