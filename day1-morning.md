@@ -97,7 +97,7 @@ Another use case: staircase wall display and immersion lab.
 
 Out of the box, Google Analytics gives you the who, how and what. Also allows for customization/custom data for who/how/what data.
 
-**Custom variables/dimensions** give you aditional data about who's doing the stuff on your site. Similar to audience segments. Examples:
+**Custom variables/dimensions** give you additional data about who's doing the stuff on your site. Similar to audience segments. Examples:
 
 - logged in users
 - people with items in shopping cart
