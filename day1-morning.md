@@ -121,4 +121,6 @@ We have COUNTER stats through our publishers. Summon and discovery vendors provi
 
 Project at Virginia Tech, Discovering Discovery, shows what items people are clicking in real-time. 
 
+From summon, custom JS that records onclick events, then calls Summon API for item info. Using D3 library for some visualizations.
+
 [Live demo](http://libx.lib.vt.edu/services/summonvis/recordscroll-only.html)
