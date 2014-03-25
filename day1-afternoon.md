@@ -16,6 +16,8 @@ Schema available for ScholarlyArticle. Periodicals coming.
 
 OPAC as Oslo Public Library - converted MARC to RDF. Helps with deduplication and author disambiguation. Using SPARQL methods to modify/cluster data.
 
+~~internet came back, note-taking slooooowed~~
+
 [MARC2RDF on GitHub](https://github.com/digibib/marc2rdf)
 
 ## more like this: recommended items using subject headings	
