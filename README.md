@@ -7,3 +7,4 @@ c4l2014-notes
  - [day 1 - breakout - UX culture](day1-breakout.md)
  - [day 1 - lightning talks](day1-lightningtalks.md)
  - [day 2 - morning](day2-morning.md)
+ - [day 2 - lightning talks](day2-lightningtalks.md)
