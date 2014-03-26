@@ -9,3 +9,4 @@ c4l2014-notes
  - [day 2 - morning](day2-morning.md)
  - [day 2 - lightning talks](day2-lightningtalks.md)
  - [day 2 - afternoon](day2-afternoon.md)
+ - [day 2 - breakout - UX part 2](day2-breakout.md)

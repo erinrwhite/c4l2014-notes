@@ -22,8 +22,15 @@ Case study: Studio Art MFA program files. Multipart, multiformat works with desc
 
 ## Organic Free-Range API Development - Making Web Services That You Will Actually Want to Consume
 
+
+
 ## Towards Pasta Code Nirvana: Using Javascript MVC to Fill Your Programming Ravioli
+
+
 
 ## PhantomJS+Selenium: Easy Automated Testing of AJAX-y UIs
 
+
+
 ## Queue Programming -- how using job queues can make the Library coding world a better place 
+
