@@ -6,7 +6,6 @@ Creating archive audio files with full transcriptions.
 
 [http://rescarta.org](http://rescarta.org)
 
-
 ## how many here are vets/n00bs?
 
 So many new people! About half the room are new attendees. 1-2 people have been here for 8 or 9 conferences.
