@@ -1,6 +1,6 @@
 # wrap-up: takeaways from code4lib 2014
 
-As anticipated I very much enjoyed attending [Code4Lib 2014](http://code4lib.org/conference/2014/schedule) in Raleigh, NC back in March. Code4Lib is an international (though primarily North American) group of library/ish web/software developers. We are loosely organized around a [listserv](https://listserv.nd.edu/cgi-bin/wa?A0=CODE4LIB), an [annual conference](http://code4lib.org/conference) and regional sub-conferences, and an [open-access journal](http://journal.code4lib.org/).
+I enjoyed the hell out of [Code4Lib 2014](http://code4lib.org/conference/2014/schedule) in Raleigh, NC back in March. Code4Lib is a group of library/ish web/software developers/aficionados. We are loosely organized around a [listserv](https://listserv.nd.edu/cgi-bin/wa?A0=CODE4LIB), an [annual conference](http://code4lib.org/conference) and regional sub-conferences, and an [open-access journal](http://journal.code4lib.org/).
 
 I went to the conference last year, too, and [wrote that up](http://erinrwhite.com/fou-things-that-inspired-me-at-code4lib-2013/). 
 
@@ -53,8 +53,8 @@ Related presentations:
 - [Structured data NOW: seeding schema.org in library systems](http://lanyrd.com/2014/c4l14/scxyrq/)
 - [Schema.org for digital collections at Duke](https://blogs.library.duke.edu/bitstreams/2014/03/27/schema-org-and-google-for-local-discovery-some-key-takeaways/)
 
-## VCU Libraries' web team is uniquely poised
+## VCU Libraries' web team is unusual
 
-VCU Libraries sent two of us to Code4Lib this year, which was great - both Shariq and I had fun and learned a lot, including that VCU Libraries is unique in the size and structure of the web team. Many organizations at Code4Lib were either represented by one person or by 12. We're a three-person shop, and as Shariq has noted, we are not building enterprise systems from scratch. We do, however, work closely with the Enterprise Systems team to modify interfaces for systems like Primo and ContentDM. And we are responsible for high-profile systems like the study room reservation system, the instruction scheduler, the problem reporting system, and "invisible" systems that connect users to resources or display today's hours on the website.
+VCU Libraries sent two of us to Code4Lib this year, which was great - both our developer Shariq and I had fun and learned a lot, including that VCU Libraries is unique in the size and structure of the web team. Many organizations at Code4Lib were either represented by one person or by 12. We're a three-person shop, and as Shariq has noted, we are not building enterprise systems from scratch. We do, however, work closely with the Enterprise Systems team to modify interfaces for systems like Primo and ContentDM. And we are responsible for high-use web systems like the study room reservation system and “invisible” but essential systems that connect users to resources or display today’s hours on the website.
 
-So, looking forward, we should continue to be thoughtful but unafraid about the types and scope of projects that the team takes on. I see us focusing on improving user experience for existing systems; finding more ways to use existing systems at VCU and beyond; and keeping an eye out for new innovative but sustainable projects that can support scholarship at VCU.
+So, looking forward, we should continue to be thoughtful but bold about the types and scope of projects that the team takes on. I see us focusing on improving user experience for existing systems and keeping an eye out for innovative but sustainable projects that can support scholarship at VCU, while finding more ways to use existing systems at VCU and beyond where we can.
