@@ -22,7 +22,7 @@ How do we make the right things, and make them usable? Empathy. It's a "feminine
 
 ## Discomfort = growth
 
-This was a nice tying thread between [2013's Fail4Lib preconference](http://lanyrd.com/2013/c4l13/scbpdt/) and this year's keynotes. We learn by failing, and that includes not just bugs in code, but how we behave. [Valerie Aurora's](https://github.com/erinrwhite/c4l2014-notes/blob/master/day3-keynote.md) quote was, "Notice when you feel discomfort or guilt. It's a sign you are learning something."
+This was a nice tying thread between [2013's Fail4Lib preconference](http://lanyrd.com/2013/c4l13/scbpdt/) and this year's keynotes. We learn by failing, and that includes not just bugs in code, but our own personal shortcomings. [Valerie Aurora's](https://github.com/erinrwhite/c4l2014-notes/blob/master/day3-keynote.md) quote was, "Notice when you feel discomfort or guilt. It's a sign you are learning something."
 
 ## The web in 2014 and beyond
 
