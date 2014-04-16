@@ -13,3 +13,5 @@ c4l2014-notes
  - [day 3 - keynote](day3-keynote.md)
  - [day 3 - lightning talks](day3-lightningtalks.md)
  - [day 3 - morning](day3-morning.md)
+
+ And, 3 weeks after the fact: [my wrap-up of big takeaways](wrapup.md)s
